@@ -22,7 +22,7 @@ contributors:
   - first_name: Luisina
     last_name: Rüedi
     role: ctb
-    bio: "<strong>Luisina Rüedi</strong> es una traductora catalana nacida en Mendoza en 1982. ha traducido del alemán al español "Don Juan de Kolomea" de Leopold Sacher-Masoch y "La tigresa" de Walter Serner."
+    bio: "<strong>Luisina Rüedi</strong> es una traductora catalana nacida en Mendoza en 1982. ha traducido del alemán al español 'Don Juan de Kolomea' de Leopold Sacher-Masoch y 'La tigresa' de Walter Serner."
   - first_name: Vanessa
     last_name: Escuer
     role: ctb
@@ -71,7 +71,7 @@ editions:
     format: paperback
     isbn:
     pages: 128
-    illustrations: "20 b/w  illustrations"
+    illustrations: "20 b/w illustrations"
     link:
     additional_description:
   - name: Amazon Kindle (MOBI)
