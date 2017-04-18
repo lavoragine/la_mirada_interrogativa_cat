@@ -1,0 +1,203 @@
+{
+	"title": {
+		"main": "Una mirada interrogativa & altres textos errants",
+		"short": "Una mirada interrogativa",
+		"subtitle": "& altres textos errants"
+	},
+	"edition_number": "1ª",
+	"pub_date": "2017-04-23T00:00:00.000Z",
+	"creators": [
+		{
+			"first_name": "Jaume",
+			"last_name": "Benavente",
+			"role": "aut",
+			"bio": "<strong>Jaume Benavente i Cassanyes</strong> (Barcelona, 1958) es un escritor catalán, autor de quince libros. En su primera infancia, vivió en Brasil, donde emigró con su familia. Licenciado en Bellas Artes, ha trabajado con dibujante, auxiliar de bibliotecas, documentalista y conservador de museos, entre otros oficios. En la actualidad, vive en Barcelona. Ha ganado diversos premios, entre los que destacan el Premi Pin i Soler de narrativa 2006, por Llums a la costa, el Premio Ramon Muntaner de literatura juvenil, por Història d'amor a Sarajevo y el Premio Lleida de Narrativa, por Viatge d'hivern a Madeira. Sus libros han sido traducidos al español y al italiano."
+		}
+	],
+	"contributors": [
+		{
+			"first_name": "Marcela",
+			"last_name": "Rivera",
+			"role": "ctb",
+			"bio": "<strong>Marcela Rivera</strong> es profesora y traductora. Actualmente reside en Madrid."
+		},
+		{
+			"first_name": "Àlvar",
+			"last_name": "Masllorens",
+			"role": "ctb",
+			"bio": "<strong>Àlvar Masllorens</strong> un editor y librero catalán."
+		},
+		{
+			"first_name": "Luisina",
+			"last_name": "Rüedi",
+			"role": "ctb",
+			"bio": "<strong>Luisina Rüedi</strong> es una traductora catalana nacida en Mendoza en 1982. ha traducido del alemán al español 'Don Juan de Kolomea' de Leopold Sacher-Masoch y 'La tigresa' de Walter Serner."
+		},
+		{
+			"first_name": "Vanessa",
+			"last_name": "Escuer",
+			"role": "ctb",
+			"bio": "<strong>Vanessa Escuer</strong> es una periodista catalana"
+		}
+	],
+	"author_as_it_appears": [
+		"Jaume Benavente i Cassanyes",
+		"Contribuciones de Marcela Rivera, Àlvar Masllorens, Vanessa Escuer, Luisina Rüedi"
+	],
+	"contributor": [
+		{
+			"role": "translator",
+			"text": "Luisina Rüedi"
+		},
+		{
+			"role": "translator",
+			"text": "Vanessa Escuer"
+		},
+		{
+			"role": "photographer",
+			"text": "Jaume Benavente"
+		},
+		{
+			"role": "photographer",
+			"text": "Claudio Marín"
+		},
+		{
+			"role": "photographer",
+			"text": "Carles Domènec"
+		},
+		{
+			"role": "photographer",
+			"text": "Maria Tortajada"
+		},
+		{
+			"role": "photographer",
+			"text": "LeonMol"
+		}
+	],
+	"project_team": [
+		{
+			"name": "Lucho Tapia",
+			"role": "Editor"
+		},
+		{
+			"name": "Alfred Obiol",
+			"role": "Proofreader"
+		},
+		{
+			"name": "Lucho Tapia",
+			"role": "Designer"
+		},
+		{
+			"name": "Francesca Dardi",
+			"role": "Production"
+		},
+		{
+			"name": "Luca Verzello",
+			"role": "Cover Designer"
+		}
+	],
+	"editions": [
+		{
+			"name": "Online",
+			"type": "InteractiveResource",
+			"format": "text/html",
+			"isbn": null,
+			"link": null,
+			"additional_description": null
+		},
+		{
+			"name": "Paperback",
+			"type": "PhyiscalObject",
+			"format": "paperback",
+			"isbn": null,
+			"pages": 128,
+			"illustrations": "20 b/w illustrations",
+			"link": null,
+			"additional_description": null
+		},
+		{
+			"name": "Amazon Kindle (MOBI)",
+			"type": "Text",
+			"format": "application/mobi",
+			"isbn": null,
+			"file_size_mb": null,
+			"link": null,
+			"additional_description": null
+		},
+		{
+			"name": "Apple iBookstore (EPUB)",
+			"type": "Text",
+			"format": "application/epub+zip",
+			"isbn": null,
+			"file_size_mb": null,
+			"link": null,
+			"additional_description": null
+		},
+		{
+			"name": "Google Play (EPUB)",
+			"type": "Text",
+			"format": "application/epub+zip",
+			"isbn": null,
+			"file_size_mb": null,
+			"link": null,
+			"additional_description": null
+		},
+		{
+			"name": "Barnes & Noble NOOK (EPUB)",
+			"type": "Text",
+			"format": "application/epub+zip",
+			"isbn": null,
+			"file_size_mb": null,
+			"link": null,
+			"additional_description": null
+		}
+	],
+	"description": "",
+	"publisher": "Libros de la Vorágine",
+	"imprint": "la vorágine SCCL",
+	"publisher_short": "La vorágine",
+	"publisher_location": "Barcelona",
+	"categories": [
+		"Reference"
+	],
+	"coverage": null,
+	"keywords": [
+		"literatura",
+		"literatura de viajes",
+		"crónica literaria",
+		"literatura en lengua catalana",
+		"chile",
+		"xile",
+		"autobiografía literaria",
+		"nocturno de Portbou"
+	],
+	"Ibic": [
+		{
+			"code": null,
+			"subject": ""
+		},
+		{
+			"code": null,
+			"subject": ""
+		},
+		{
+			"code": null,
+			"subject": ""
+		}
+	],
+	"Theme": null,
+	"rights": "© 2017, libros de la voragine",
+	"licence": "BY-NC-ND, Creative Commons Attribution-NonCommercial-NoDerivs",
+	"licence-link": "http://creativecommons.org/licenses/by-nc-nd/3.0/",
+	"lang": "CA-es",
+	"pub_id": "978-1-60606-480-1",
+	"revision_history": [
+		{
+			"date": "April 23, 2017",
+			"summary": [
+				"First release"
+			]
+		}
+	],
+	"repository_url": "https://github.com/lavoragine/una_mirada_interrogativa"
+}
